@@ -4,7 +4,7 @@ public class CarShopMain {
 
     public static void main(String[] args) {
 
-        /*///1. rész
+        ///1. rész
         Car car1 = new Car("Toyota", 1.2, Color.BLACK, 2_300_000);
         Car car2 = new Car("Lamborghini", 5.2, Color.BLACK, 10_300_000);
 
@@ -36,6 +36,6 @@ public class CarShopMain {
 
         System.out.println(carShop.carsWithBrand("Toyota").size()); //2
 
-        System.out.println(carShop.carsWithBrand("BMW").size()); //0*/
+        System.out.println(carShop.carsWithBrand("BMW").size()); //0
     }
 }
